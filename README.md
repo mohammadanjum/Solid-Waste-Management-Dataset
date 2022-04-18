@@ -5,6 +5,4 @@ https://zhcetacin-my.sharepoint.com/:f:/g/personal/mohdanjum_zhcet_ac_in/EgWGeRi
 You can request to access the annotated dataset at following link: (**Data will be available soon**)
 https://zhcetacin-my.sharepoint.com/:f:/g/personal/mohdanjum_zhcet_ac_in/EhMso3l_wbtGp5xTAXljCKoBFUOfmAhOjOLdn5XVp45nBg?email=sshahab%40pnu.edu.sa&e=NIH7DD
 
-Or request can be made for both directly to the author at the follwoing email address: 
-Author 1: mohdanjum@zhcet.ac.in
-Author 2: sshahab@pnu.edu.sa
+Or request can be made for both directly to the author at the follwoing email address: mohdanjum@zhcet.ac.in
